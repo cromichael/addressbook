@@ -1,0 +1,9 @@
+---
+- config:
+  
+      # csv file reader config
+      searcher: "csvfsreader"
+      csvfile: "data/address-book.csv"
+      
+      ## db config
+      # searcher: "dbreader"        
